@@ -2,7 +2,7 @@
 - 👀 I’m interested in hacking
 - 🌱 I’m currently learning as a student
 - 📫 dtsproduction036@gmail.com
-- 🔥 Noob Programmers
+- ⌨️ https://darkesoul.github.io/darkebot
 
 <!---
 darkesoul/darkesoul is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

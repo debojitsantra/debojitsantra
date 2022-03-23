@@ -1,4 +1,4 @@
-[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=darkesoul)](https://github.com/dark3hackers)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=darkesoul&layout=compact)](https://github.com/dark3hackers)
+[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=dark3hackers)](https://github.com/dark3hackers)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dark3hackers&layout=compact)](https://github.com/dark3hackers)
 
 
 

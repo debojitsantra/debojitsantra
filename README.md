@@ -7,11 +7,11 @@
 
 - 👨‍💻 All of my projects are available at [debojit.ml](debojit.ml)
 
-- 📝 I regularly write articles on [darke0.blogspot.com](darke0.blogspot.com)
+- 📝 I regularly write articles on [darkemate.code.blog](darkemate.code.blog)
 
 - 💬 Ask me about **Bootstarp**
 
-- 📫 How to reach me **dtsproduction036@gmail.com**
+- 📫 How to reach me **debojits@duck.com**
 
 - 📄 Know about my experiences [debojit.ml](debojit.ml)
 

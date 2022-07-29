@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Darke</h1>
+<h1 align="center">Hi 👋, I'm Debojit</h1>
 <h3 align="center">A python devoloper from india</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=darkemate" alt="darkemate" /></a> </p>

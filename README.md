@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **debojits@duck.com**
 
-- 📄 Know about my experiences [debojit.ml](debojit.ml)
+- 📄 Know about my experiences [darkemate.gq](darkemate.gq)
 
 - ⚡ Fun fact **I think I am funny**
 

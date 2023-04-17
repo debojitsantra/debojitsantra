@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Ruby,C++,Java**
 
-- 👨‍💻 All of my projects are available at [debojit.ml](debojit.ml)
+- 👨‍💻 All of my projects are available at [darkemate.github.io](darkemate.github.io)
 
 - 📝 I regularly write articles on [darkemate.code.blog](darkemate.code.blog)
 

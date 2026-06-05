@@ -34,6 +34,6 @@
 
 ### Trophies
 
-[![Trophy](https://trophy.ryglcloud.net/?username=debojitsantra&theme=onedark)]
+![Trophy](https://trophy.ryglcloud.net/?username=debojitsantra&theme=onedark)
 
 

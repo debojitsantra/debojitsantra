@@ -10,8 +10,6 @@
 
 - ⚡ Fun fact **i think i am boring**
 
-- 👨‍💻 All of my projects are available at **[https://debojitsantra.dev](https://debojitsantra.dev)**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://github.com/debojitsantra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="debojitsantra" height="30" width="40" /></a>

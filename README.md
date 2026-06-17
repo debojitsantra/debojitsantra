@@ -17,8 +17,7 @@ I like building simple, efficient software that runs well on modest hardware. Mo
 
 - 🔭 I'm currently working on **a Procedural Universe**
 - 🌱 Learning: **Exploring the depths of Rust, Systems Programming in C, and the intricacies of Computer Networking.**
-- 💬 Ask me about: **C, Linux**
-- 📍 Based in: **India**
+- 💬 Ask me about: **C, Python, Linux**
 - 📫 Reach me: [debojitsantra48@gmail.com](mailto:debojitsantra48@gmail.com)
 - ⚡ Fun fact: I am boring
 

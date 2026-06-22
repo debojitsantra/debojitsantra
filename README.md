@@ -4,7 +4,6 @@
 
 <p align="center">
   <a href="debojitsantra.vercel.app">Website</a> •
-  <a href="https://twitter.com/">Twitter</a> •
   <a href="https://linkedin.com/in/https://linkedin.com/in/debojitsantra">LinkedIn</a> •
   <a href="https://github.com/debojitsantra">GitHub</a>
 </p>

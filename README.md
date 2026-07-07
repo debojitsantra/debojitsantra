@@ -5,7 +5,7 @@
 <p align="center">
   <a href="debojitsantra.vercel.app">Website</a> •
   <a href="https://linkedin.com/in/https://linkedin.com/in/debojitsantra">LinkedIn</a> •
-  <a href="https://github.com/debojitsantra48">Gitlab</a>
+  <a href="https://gitlab.com/debojitsantra48">Gitlab</a>
 </p>
 
 ---

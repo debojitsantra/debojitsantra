@@ -23,7 +23,7 @@ Right now I'm deep in a **procedural universe** — generating galaxies, star sy
 
 Outside of that, I ship small, focused apps that respect your privacy:
 
-- **[WallApp](thewallapp.pages.dev)** — a privacy friendly clean wallpaper app.
+- **[WallApp](https://thewallapp.pages.dev)** — a privacy friendly clean wallpaper app.
 - **[Backlog Tracker](https://backlogtracker.110010101.xyz/)** — track your game/show backlog, available on android, windows, linux and macos.
 - **[BedrockServerTermux](https://github.com/debojitsantra/BedrockServerTermux)** — run a Minecraft Bedrock server straight from Termux, no root needed
 - **[PocketDevTermux](https://github.com/debojitsantra/PocketDevTermux)** — a dev environment setup for coding on Android via Termux

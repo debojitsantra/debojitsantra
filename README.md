@@ -1,46 +1,38 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=180&section=header&text=Debojit%20Santra&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=building%20small%2C%20fast%20things%20that%20don't%20need%20a%20data%20center&descAlignY=58&descAlign=50" width="100%"/>
-
-<a href="https://debojitsantra.vercel.app">Website</a> ·
-<a href="https://linkedin.com/in/debojitsantra">LinkedIn</a> ·
-<a href="https://gitlab.com/debojitsantra48">GitLab</a> ·
-<a href="mailto:debojitsantra48@gmail.com">Email</a>
-
-<br/>
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1200&color=A9B7C6&center=true&vCenter=true&width=600&lines=building+a+procedural+universe%2C+one+seed+at+a+time;FOSS-first%2C+de-Googled%2C+runs-on-a-potato+software;currently+arguing+with+the+Rust+borrow+checker" alt="Typing SVG" />
-</a>
+[Website](https://110010101.xyz) &nbsp;|&nbsp;
+[GitLab](https://gitlab.com/debojitsantra48) &nbsp;|&nbsp;
+[Email](mailto:talk@110010101.xyz)
 
 </div>
 
 <br/>
 
-### 🪐 what I'm building
+## About
 
-Right now I'm deep in a **procedural universe** — generating galaxies, star systems, and terrain from nothing but seeds and noise functions. It's the kind of project that eats weekends and teaches you way more math than you signed up for.
+A normie intermediate developer tryin' out different things and creating what i need.
+<br/>
 
-Outside of that, I ship small, focused apps that respect your privacy:
+## Projects
 
-- **[WallApp](https://thewallapp.pages.dev)** — a privacy friendly clean wallpaper app.
-- **[Backlog Tracker](https://backlogtracker.110010101.xyz/)** — track your game/show backlog, available on android, windows, linux and macos.
-- **[BedrockServerTermux](https://github.com/debojitsantra/BedrockServerTermux)** — run a Minecraft Bedrock server straight from Termux, no root needed
-- **[PocketDevTermux](https://github.com/debojitsantra/PocketDevTermux)** — a dev environment setup for coding on Android via Termux
+| Project | Description |
+|---|---|
+| [WallApp](https://thewallapp.pages.dev) | A privacy-focused wallpaper application |
+| [Backlog Tracker](https://backlogtracker.110010101.xyz/) | Cross-platform tool for tracking game and show backlogs (Android, Windows, Linux, macOS) |
+| [BedrockServerTermux](https://github.com/debojitsantra/BedrockServerTermux) | Runs a Minecraft Bedrock server on Termux without requiring root access |
+| [PocketDevTermux](https://github.com/debojitsantra/PocketDevTermux) | A configured development environment for coding on Android via Termux |
 
 <br/>
 
-### 🌱 currently learning
+## Currently Learning
 
-```txt
-Rust           → fighting the borrow checker, slowly winning
-C              → systems programming, pointers, and humility
-Networking     → sockets, protocols, and why the internet works at all
-```
+- **Rust** — memory safety and ownership model
+- **C** — systems programming and low-level fundamentals
+- **Networking** — sockets, protocols, and network architecture
 
 <br/>
 
-### 🛠 the stack I reach for
+## Technical Skills
 
 <div align="center">
 
@@ -59,30 +51,26 @@ Networking     → sockets, protocols, and why the internet works at all
 
 <br/>
 
-### 💬 ask me about
+## Areas of Interest
 
-`C` · `Python` · `Linux` · `self-hosting` · `why your phone doesn't need Google Play Services`
+C · Python · Linux · Self-hosting · Privacy-focused mobile computing
 
 <br/>
 
+## GitHub Statistics
+
 <div align="center">
 
-<img height="165em" src="https://github-stats-extended.vercel.app/api?username=debojitsantra&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=A9B7C6&icon_color=A9B7C6&text_color=c9d1d9"/>
-<img height="165em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=debojitsantra&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=A9B7C6&text_color=c9d1d9&custom_lang_colors=python:FFD43B"/>
+<img height="165em" src="https://github-stats-extended.vercel.app/api?username=debojitsantra&amp;show_icons=true&amp;theme=dark&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=A9B7C6&amp;icon_color=A9B7C6&amp;text_color=c9d1d9"/>
+<img height="165em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=debojitsantra&amp;layout=compact&amp;theme=dark&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=A9B7C6&amp;text_color=c9d1d9&amp;custom_lang_colors=python:FFD43B"/>
 
-<img src="https://streak-stats.demolab.com/?user=debojitsantra&theme=dark&hide_border=true&background=0D1117&ring=A9B7C6&fire=A9B7C6&currStreakLabel=A9B7C6"/>
+<img src="https://streak-stats.demolab.com/?user=debojitsantra&amp;theme=dark&amp;hide_border=true&amp;background=0D1117&amp;ring=A9B7C6&amp;fire=A9B7C6&amp;currStreakLabel=A9B7C6"/>
 
 </div>
 
 <br/>
 
-### ⚡ fun fact
-
-I am boring. Deliberately — I'd rather my software be boring and reliable than exciting and broken.
-
-<br/>
-
-### ☕ support
+## Support
 
 <div align="center">
 
@@ -90,5 +78,3 @@ I am boring. Deliberately — I'd rather my software be boring and reliable than
 [![GitHub Sponsors](https://img.shields.io/badge/Sponsor-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/debojitsantra)
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,100:1a1a2e&height=100&section=footer" width="100%"/>

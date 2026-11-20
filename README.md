@@ -40,12 +40,6 @@ A normie intermediate developer tryin' out different things and creating what i 
 
 <br/>
 
-## Areas of Interest
-
-C · Python · Linux · Self-hosting · Privacy-focused mobile computing
-
-<br/>
-
 ## GitHub Statistics
 
 <div align="center">

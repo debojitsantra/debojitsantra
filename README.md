@@ -13,17 +13,6 @@
 A normie intermediate developer tryin' out different things and creating what i need.
 <br/>
 
-## Projects
-
-| Project | Description |
-|---|---|
-| [WallApp](https://thewallapp.pages.dev) | A privacy-focused wallpaper application |
-| [Backlog Tracker](https://backlogtracker.110010101.xyz/) | Cross-platform tool for tracking game and show backlogs (Android, Windows, Linux, macOS) |
-| [BedrockServerTermux](https://github.com/debojitsantra/BedrockServerTermux) | Runs a Minecraft Bedrock server on Termux without requiring root access |
-| [PocketDevTermux](https://github.com/debojitsantra/PocketDevTermux) | A configured development environment for coding on Android via Termux |
-
-<br/>
-
 ## Currently Learning
 
 - **Rust** — memory safety and ownership model
